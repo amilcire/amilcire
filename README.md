@@ -31,6 +31,6 @@
 - Email : eclimmc@gmail.com <br/>
 - Telefone : (21)98249-3541
 
-![Profile views](https://komarev.com/ghpvc/?username=amilcire&label=Profile%20views&color=0e75b6)
+![Profile views](https://komarev.com/ghpvc/?username=amilcire&label=Profile%20views&color=00ff00)
 
 
